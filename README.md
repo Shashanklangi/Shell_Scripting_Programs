@@ -1,2 +1,2 @@
 # Shell_Scripting_Programs
-Problems on shell scripting
+Problems in shell scripting
